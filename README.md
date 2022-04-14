@@ -3,7 +3,7 @@ A program that calculates F(n) by the given value of n
 
 
 
-
+```
 import java.util.Scanner;
 public class fibonacciSeq {
     public static void main(String[] args) {
@@ -29,4 +29,4 @@ public class fibonacciSeq {
         System.out.println("\nThe value of index number " + N + " is " + num1);
 
     }
-    
+    ```
